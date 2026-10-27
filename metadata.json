@@ -1,0 +1,6 @@
+{
+  "name": "Rubik's Revenge 4x4 3D Solver & Guide",
+  "description": "Interactive 3D 4×4 Rubik's Cube Solver with manual sticker color scanning, step-by-step reduction algorithm guide, animated turn arrows, and physical practice mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
